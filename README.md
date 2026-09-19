@@ -293,7 +293,7 @@ A curated list of resources on Email tools, server, framework, technology...
 - [checkdmarc](https://github.com/domainaware/checkdmarc) -  A parser for SPF and DMARC DNS records - `Apache License version 2.0`, `Python`
 - [Viesti-Reports](https://github.com/antedebaas/Viesti-Reports) - DMARC & SMTP-TLS Reports processor and visualizer and BIMI file hoster - `GPL v2`, `PHP`
 - [DMARC Analyzer](https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp) -  Self-hosted DMARC aggregate report monitoring with per-client dashboards and multi-tenant separation; also ingests MTA-STS and TLS-RPT reports  - `Apache License version 2.0`, `C#`
-
+- [dmarc-rua](https://github.com/domaincanary/dmarc-rua) - Parses DMARC aggregate reports from XML, .xml.gz and .zip and extracts them from report email. Runs on Deno, Node.js, Bun and Cloudflare Email Workers - `MIT`, `TypeScript`
 
 ### Privacy
 
